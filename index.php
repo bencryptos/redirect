@@ -101,7 +101,7 @@ save_rs($result);
             display: flex;
             justify-content: center;
             align-items: center;
-            background-color: #f7f7f7;
+            background-color: #ffffff;
         }
 
         .container {
@@ -118,7 +118,7 @@ save_rs($result);
             width: 20px;
             height: 20px;
             margin: 2px;
-            background-color: #f4a15d;
+            background-color: #ff0000;
             border-radius: 100%;
             animation: fader 1.6s infinite;
         }
